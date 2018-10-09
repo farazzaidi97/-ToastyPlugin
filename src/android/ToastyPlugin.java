@@ -1,4 +1,4 @@
-package com.farazzaidi97.cordova.plugin;
+package com.farazzaidi97.cordova.plugin.ToastyPlugin;
 
 // The native Toast API
 import android.widget.Toast;
